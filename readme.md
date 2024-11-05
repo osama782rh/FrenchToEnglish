@@ -64,5 +64,5 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet, 
 
 ---
 
-                                                                                                      **Créé par 𝒪𝓈𝒶𝓂𝒶**
+                                                                               **Créé par 𝒪𝓈𝒶𝓂𝒶**
 
